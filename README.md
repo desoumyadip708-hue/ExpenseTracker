@@ -24,3 +24,9 @@ A console-based Java project for tracking personal expenses.
 ## How to Run
 javac InvalidExpenseException.java Expense.java ExpenseManager.java ExpenseTracker.java
 java ExpenseTracker
+
+## Screenshot
+
+### Expense Tracker Menu
+
+![Expense Tracker Menu](images/menu.png)
