@@ -1,0 +1,4 @@
+car,500000.0,shop,2026-06-23
+iphone ,100000.0,shop,2026-06-23
+jewellery,1000000.0,shopping,2026-06-23
+ration,20000.0,necessities,2026-06-23
